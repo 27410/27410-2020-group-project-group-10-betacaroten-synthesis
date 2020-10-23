@@ -14,7 +14,7 @@
 > Good luck!
 
 ## Project summary (<300 words)
-Describe the overall aim of your project and what you have achieved.
+We would like to use an excisting GMS to come up with engineering stradegies for beta-caroten production in the model organism Saccharomyces cerevisiae. We are going to examine the beta caroten parthway and insert nesessary genes into the GMS. Next we will examine gene knockout target to optimize the beta-caroten production in S. Cervisiae. 
 
 ## Project overview
 Describe how your project is organized ...
