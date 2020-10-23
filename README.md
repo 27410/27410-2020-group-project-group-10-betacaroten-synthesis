@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/[PUT-YOUR-REPOSITORY-HERE]/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https://github.com/27410/27410-2020-group-project-group-10-betacaroten-synthesis.git/main)
 
 # 27410 - Group assignment - Group 10 - beta-carotene synthesis
 
