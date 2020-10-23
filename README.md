@@ -13,6 +13,7 @@
 
 ## Project summary (<300 words)
 Describe the overall aim of your project and what you have achieved.
+We decided that we are gonna work on Saccharomyces Cerevisiae to produce beta-caroten (look in the old fermentation raport for genes to incorporate and information)
 
 ## Project overview
 Describe how your project is organized ...
