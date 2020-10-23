@@ -25,5 +25,14 @@ Two GMS for Sc. strin S288C has been identified. To choose the best one to work 
 Since Sc. isn't a natural producer, the nessesary gene will be identified and inserted into the model for further engineering.
 Through gene knockouts and hence changinging expression levels in the beta caroten pathway we will optimize the production in Sc.
 
+1 Introduction
+    1.1 Literature review of the compound (<500 words)
+    1.2 Literature review of the cell factory (<500 words)
+2 Problem definition (<300 words)
+3 If Project category II: Selection and assessment of existing GSM (<500 words)
+4 Computer-Aided Cell Factory Engineering (<1500 words if Category II project; <500 words for Category I project)
+5 Discussion (<500 words)
+6 Conclusion (<200 words)
+
 
 >>>>>>> 712f44429def151aefa4e9fc430d4b0d5667ef78
