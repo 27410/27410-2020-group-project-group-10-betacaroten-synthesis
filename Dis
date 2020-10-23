@@ -4,6 +4,19 @@
   8/10/2020: - We decided that we are gonna work on Saccharomyces Cerevisiae to produce beta-caroten 
   (look in the old fermentation raport for genes to incorporate and information)
 
+The two models: 
+ - iMM904: 
+     Saccharomyces cerevisiae S288C
+     metabolites: 1226
+     genes: 905
+     reaction: 1577
+ 
+ - iND750:
+     Saccharomyces cerevisiae S288C
+     Metabolites: 1059
+     Gene: 750
+     Reactions: 1266
+
 Relevant articles:
 https://aem.asm.org/content/73/13/4342
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5471310/
