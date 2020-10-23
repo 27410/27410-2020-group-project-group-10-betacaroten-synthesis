@@ -16,10 +16,8 @@ Beta caroten has a wide range of uses including the use as an food-adjetive and 
 We would like to use an excisting GMS to come up with engineering stradegies for beta-caroten production in the model organism Saccharomyces Cervisiae. We are going to examine the beta caroten parthway and insert nesessary genes into the GMS. Next we will examine gene knockout target to optimize the beta-caroten production in S. Cervisiae. The Overall aim is to achive a S. Cervisiae strain for the production of beta-caroten for industrial use. 
 
 ## Project overview
-The introduction, literature review of compounds and project definition will be 
-
 Two GMS for Sc. strin S288C has been identified. To choose the best one to work with, memote will be used.
 Since Sc. isn't a natural producer, the nessesary gene will be identified and inserted into the model for further engineering.
-Through gene knockouts and hence changinging expression levels in the beta carten pathway we will optimize the production of beta cartoen in Sc. 
+Through gene knockouts and hence changinging expression levels in the beta caroten pathway we will optimize the production in Sc.
 
 
