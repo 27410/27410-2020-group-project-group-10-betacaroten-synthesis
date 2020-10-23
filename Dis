@@ -1,0 +1,5 @@
+29/9 2020: - Take an existing GSM and use it to predict metabolic engineering strategies for a particular target product 
+  ○ Organisme: E. coli or S.c - GSM of S.c => hvad kan der ske hvis man indsætter et nyt polykatid som sætter ting på ringe. 
+  - Bigg = database that have gsm models - Product of interest Hand-in a git repository with code, data files, osv. 
+  8/10/2020: - We decided that we are gonna work on Saccharomyces Cerevisiae to produce beta-caroten 
+  (look in the old fermentation raport for genes to incorporate and information)
