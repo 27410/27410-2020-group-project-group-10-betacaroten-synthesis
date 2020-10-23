@@ -14,4 +14,3 @@ We would like to use an excisting GMS to come up with engineering stradegies for
 
 ## Project overview
 Describe how your project is organized ...
-
