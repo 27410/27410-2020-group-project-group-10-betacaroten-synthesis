@@ -18,8 +18,12 @@ We would like to use an excisting GMS to come up with engineering stradegies for
 >>>>>>> 5bf48fa91a6f334944ab8953792ac5a252e23507
 
 ## Project overview
+<<<<<<< HEAD
+Describe how your project is organized ...
+=======
 Two GMS for Sc. strin S288C has been identified. To choose the best one to work with, memote will be used.
 Since Sc. isn't a natural producer, the nessesary gene will be identified and inserted into the model for further engineering.
 Through gene knockouts and hence changinging expression levels in the beta caroten pathway we will optimize the production in Sc.
 
 
+>>>>>>> 712f44429def151aefa4e9fc430d4b0d5667ef78
